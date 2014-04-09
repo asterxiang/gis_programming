@@ -3,7 +3,7 @@
 ###Name the javascript object format (2 pts each)  
 1\. A format for encoding data structures returned from calls to the ArcGIS Server Rest API  
 
-json
+esrijson
   
 2\. An open source format for encoding geospatial features and their attributes, commonly used in open source web mapping  
 
@@ -14,7 +14,7 @@ geojson
 topojson  
     
 ### True/False (2 pts each)  
-4\. Conversion from EsriJSON to GeoJSON is simple for all vector types except MultiPolygons.  
+4\. Conversion from EsriJSON to GeoJSON is simple for all vector types except MultiPolygons.  T
   
 5\. In Leaflet, vectors are commonly rendered as markers composed of a layer for each feature.  F
   
